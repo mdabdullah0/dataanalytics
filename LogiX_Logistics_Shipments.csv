@@ -1,0 +1,351 @@
+ShipmentID,DispatchDate,Carrier,OriginHub,DestinationHub,PromisedTransitDays,ActualTransitDays,OTIFStatus,SLAPenaltyAmount,FreightCost
+SHP-2026-5000,2025-06-01,FedEx Freight,Dubai Logistics City,Frankfurt FC,7,7,On-Time In-Full,0.0,483.19
+SHP-2026-5001,2025-06-01,XPO Logistics,Dubai Logistics City,New York FC,3,3,On-Time In-Full,0.0,278.45
+SHP-2026-5002,2025-06-02,XPO Logistics,Singapore Hub,London Gateway,5,8,SLA Breach / Delayed,357.35,379.33
+SHP-2026-5003,2025-06-03,DHL Express,Dubai Logistics City,New York FC,5,5,On-Time In-Full,0.0,396.38
+SHP-2026-5004,2025-06-04,Maersk Logistics,Rotterdam Port,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,440.82
+SHP-2026-5005,2025-06-05,FedEx Freight,Shanghai Port,Sydney Express Hub,5,5,On-Time In-Full,0.0,376.3
+SHP-2026-5006,2025-06-05,XPO Logistics,Shanghai Port,Sydney Express Hub,5,5,On-Time In-Full,0.0,426.08
+SHP-2026-5007,2025-06-06,XPO Logistics,Rotterdam Port,Frankfurt FC,3,3,On-Time In-Full,0.0,283.69
+SHP-2026-5008,2025-06-07,Maersk Logistics,Shanghai Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,353.5
+SHP-2026-5009,2025-06-08,DHL Express,Chicago Hub,Sydney Express Hub,7,7,On-Time In-Full,0.0,485.53
+SHP-2026-5010,2025-06-09,FedEx Freight,Rotterdam Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,337.02
+SHP-2026-5011,2025-06-09,DHL Express,Dubai Logistics City,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,392.41
+SHP-2026-5012,2025-06-10,DHL Express,Rotterdam Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,325.21
+SHP-2026-5013,2025-06-11,FedEx Freight,Singapore Hub,Sydney Express Hub,5,5,On-Time In-Full,0.0,380.36
+SHP-2026-5014,2025-06-12,FedEx Freight,Dubai Logistics City,Sydney Express Hub,5,7,SLA Breach / Delayed,154.19,376.68
+SHP-2026-5015,2025-06-13,XPO Logistics,Singapore Hub,New York FC,3,3,On-Time In-Full,0.0,350.05
+SHP-2026-5016,2025-06-13,XPO Logistics,Dubai Logistics City,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,303.41
+SHP-2026-5017,2025-06-14,FedEx Freight,Shanghai Port,Frankfurt FC,2,2,On-Time In-Full,0.0,301.0
+SHP-2026-5018,2025-06-15,UPS Supply Chain,Rotterdam Port,New York FC,5,5,On-Time In-Full,0.0,415.03
+SHP-2026-5019,2025-06-16,XPO Logistics,Chicago Hub,London Gateway,7,12,SLA Breach / Delayed,392.09,519.66
+SHP-2026-5020,2025-06-17,UPS Supply Chain,Dubai Logistics City,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,235.52
+SHP-2026-5021,2025-06-17,FedEx Freight,Dubai Logistics City,Tokyo Distribution Center,5,6,SLA Breach / Delayed,290.85,391.78
+SHP-2026-5022,2025-06-18,XPO Logistics,Singapore Hub,London Gateway,3,4,SLA Breach / Delayed,641.32,300.1
+SHP-2026-5023,2025-06-19,DHL Express,Shanghai Port,London Gateway,3,3,On-Time In-Full,0.0,325.85
+SHP-2026-5024,2025-06-20,FedEx Freight,Singapore Hub,London Gateway,10,10,On-Time In-Full,0.0,618.48
+SHP-2026-5025,2025-06-21,Maersk Logistics,Singapore Hub,Frankfurt FC,3,3,On-Time In-Full,0.0,286.88
+SHP-2026-5026,2025-06-22,UPS Supply Chain,Shanghai Port,Sydney Express Hub,3,6,SLA Breach / Delayed,352.4,322.72
+SHP-2026-5027,2025-06-22,FedEx Freight,Chicago Hub,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,295.15
+SHP-2026-5028,2025-06-23,FedEx Freight,Singapore Hub,Sydney Express Hub,2,2,On-Time In-Full,0.0,260.57
+SHP-2026-5029,2025-06-24,XPO Logistics,Singapore Hub,Sydney Express Hub,3,3,On-Time In-Full,0.0,285.58
+SHP-2026-5030,2025-06-25,XPO Logistics,Dubai Logistics City,London Gateway,2,2,On-Time In-Full,0.0,245.74
+SHP-2026-5031,2025-06-26,XPO Logistics,Shanghai Port,Frankfurt FC,5,5,On-Time In-Full,0.0,384.0
+SHP-2026-5032,2025-06-26,Maersk Logistics,Rotterdam Port,New York FC,3,3,On-Time In-Full,0.0,298.99
+SHP-2026-5033,2025-06-27,XPO Logistics,Chicago Hub,Frankfurt FC,5,6,SLA Breach / Delayed,646.51,416.42
+SHP-2026-5034,2025-06-28,FedEx Freight,Chicago Hub,Sydney Express Hub,2,3,SLA Breach / Delayed,150.36,278.08
+SHP-2026-5035,2025-06-29,XPO Logistics,Shanghai Port,Frankfurt FC,3,4,SLA Breach / Delayed,334.69,330.69
+SHP-2026-5036,2025-06-30,DHL Express,Dubai Logistics City,London Gateway,5,5,On-Time In-Full,0.0,394.0
+SHP-2026-5037,2025-06-30,XPO Logistics,Dubai Logistics City,New York FC,10,10,On-Time In-Full,0.0,655.92
+SHP-2026-5038,2025-07-01,Maersk Logistics,Shanghai Port,London Gateway,2,2,On-Time In-Full,0.0,246.33
+SHP-2026-5039,2025-07-02,DHL Express,Dubai Logistics City,New York FC,7,7,On-Time In-Full,0.0,492.52
+SHP-2026-5040,2025-07-03,FedEx Freight,Chicago Hub,Sydney Express Hub,5,5,On-Time In-Full,0.0,429.08
+SHP-2026-5041,2025-07-04,FedEx Freight,Chicago Hub,New York FC,5,5,On-Time In-Full,0.0,379.41
+SHP-2026-5042,2025-07-04,UPS Supply Chain,Rotterdam Port,New York FC,5,5,On-Time In-Full,0.0,373.79
+SHP-2026-5043,2025-07-05,DHL Express,Shanghai Port,New York FC,2,7,SLA Breach / Delayed,294.7,300.69
+SHP-2026-5044,2025-07-06,UPS Supply Chain,Singapore Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,257.43
+SHP-2026-5045,2025-07-07,DHL Express,Singapore Hub,Frankfurt FC,5,5,On-Time In-Full,0.0,419.71
+SHP-2026-5046,2025-07-08,DHL Express,Rotterdam Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,277.03
+SHP-2026-5047,2025-07-08,Maersk Logistics,Rotterdam Port,New York FC,10,10,On-Time In-Full,0.0,645.2
+SHP-2026-5048,2025-07-09,UPS Supply Chain,Dubai Logistics City,Tokyo Distribution Center,3,3,On-Time In-Full,0.0,300.29
+SHP-2026-5049,2025-07-10,Maersk Logistics,Rotterdam Port,Sydney Express Hub,2,4,SLA Breach / Delayed,290.14,234.46
+SHP-2026-5050,2025-07-11,DHL Express,Rotterdam Port,New York FC,5,6,SLA Breach / Delayed,190.91,413.79
+SHP-2026-5051,2025-07-12,FedEx Freight,Singapore Hub,New York FC,3,5,SLA Breach / Delayed,262.27,294.26
+SHP-2026-5052,2025-07-13,DHL Express,Dubai Logistics City,Frankfurt FC,5,10,SLA Breach / Delayed,483.33,395.94
+SHP-2026-5053,2025-07-13,Maersk Logistics,Rotterdam Port,Sydney Express Hub,5,5,On-Time In-Full,0.0,371.45
+SHP-2026-5054,2025-07-14,UPS Supply Chain,Rotterdam Port,New York FC,10,10,On-Time In-Full,0.0,601.77
+SHP-2026-5055,2025-07-15,UPS Supply Chain,Dubai Logistics City,New York FC,7,7,On-Time In-Full,0.0,478.84
+SHP-2026-5056,2025-07-16,Maersk Logistics,Shanghai Port,Sydney Express Hub,5,5,On-Time In-Full,0.0,372.18
+SHP-2026-5057,2025-07-17,UPS Supply Chain,Dubai Logistics City,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,437.87
+SHP-2026-5058,2025-07-17,XPO Logistics,Singapore Hub,Sydney Express Hub,10,10,On-Time In-Full,0.0,590.48
+SHP-2026-5059,2025-07-18,FedEx Freight,Shanghai Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,313.71
+SHP-2026-5060,2025-07-19,FedEx Freight,Chicago Hub,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,239.86
+SHP-2026-5061,2025-07-20,FedEx Freight,Dubai Logistics City,Sydney Express Hub,3,3,On-Time In-Full,0.0,299.61
+SHP-2026-5062,2025-07-21,UPS Supply Chain,Singapore Hub,New York FC,3,3,On-Time In-Full,0.0,349.08
+SHP-2026-5063,2025-07-21,UPS Supply Chain,Shanghai Port,Sydney Express Hub,5,5,On-Time In-Full,0.0,377.94
+SHP-2026-5064,2025-07-22,DHL Express,Dubai Logistics City,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,442.27
+SHP-2026-5065,2025-07-23,DHL Express,Rotterdam Port,London Gateway,5,5,On-Time In-Full,0.0,381.46
+SHP-2026-5066,2025-07-24,FedEx Freight,Dubai Logistics City,Sydney Express Hub,2,2,On-Time In-Full,0.0,289.33
+SHP-2026-5067,2025-07-25,XPO Logistics,Chicago Hub,Frankfurt FC,5,5,On-Time In-Full,0.0,408.73
+SHP-2026-5068,2025-07-25,DHL Express,Dubai Logistics City,New York FC,3,3,On-Time In-Full,0.0,345.76
+SHP-2026-5069,2025-07-26,DHL Express,Shanghai Port,New York FC,5,5,On-Time In-Full,0.0,409.32
+SHP-2026-5070,2025-07-27,UPS Supply Chain,Shanghai Port,Frankfurt FC,5,5,On-Time In-Full,0.0,407.76
+SHP-2026-5071,2025-07-28,XPO Logistics,Dubai Logistics City,Frankfurt FC,3,3,On-Time In-Full,0.0,290.64
+SHP-2026-5072,2025-07-29,FedEx Freight,Shanghai Port,Sydney Express Hub,2,2,On-Time In-Full,0.0,243.3
+SHP-2026-5073,2025-07-29,DHL Express,Rotterdam Port,Frankfurt FC,2,2,On-Time In-Full,0.0,303.32
+SHP-2026-5074,2025-07-30,XPO Logistics,Dubai Logistics City,London Gateway,7,7,On-Time In-Full,0.0,481.23
+SHP-2026-5075,2025-07-31,XPO Logistics,Rotterdam Port,Tokyo Distribution Center,10,10,On-Time In-Full,0.0,619.77
+SHP-2026-5076,2025-08-01,FedEx Freight,Rotterdam Port,Frankfurt FC,5,5,On-Time In-Full,0.0,425.79
+SHP-2026-5077,2025-08-02,XPO Logistics,Singapore Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,257.11
+SHP-2026-5078,2025-08-03,XPO Logistics,Dubai Logistics City,London Gateway,3,3,On-Time In-Full,0.0,351.16
+SHP-2026-5079,2025-08-03,XPO Logistics,Shanghai Port,New York FC,5,5,On-Time In-Full,0.0,424.03
+SHP-2026-5080,2025-08-04,DHL Express,Rotterdam Port,New York FC,7,7,On-Time In-Full,0.0,502.79
+SHP-2026-5081,2025-08-05,FedEx Freight,Singapore Hub,Sydney Express Hub,2,2,On-Time In-Full,0.0,300.47
+SHP-2026-5082,2025-08-06,XPO Logistics,Dubai Logistics City,London Gateway,2,2,On-Time In-Full,0.0,233.97
+SHP-2026-5083,2025-08-07,XPO Logistics,Dubai Logistics City,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,385.57
+SHP-2026-5084,2025-08-07,DHL Express,Chicago Hub,Tokyo Distribution Center,3,3,On-Time In-Full,0.0,312.2
+SHP-2026-5085,2025-08-08,FedEx Freight,Chicago Hub,London Gateway,3,3,On-Time In-Full,0.0,293.16
+SHP-2026-5086,2025-08-09,UPS Supply Chain,Rotterdam Port,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,289.51
+SHP-2026-5087,2025-08-10,DHL Express,Chicago Hub,New York FC,5,5,On-Time In-Full,0.0,438.54
+SHP-2026-5088,2025-08-11,FedEx Freight,Rotterdam Port,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,488.9
+SHP-2026-5089,2025-08-11,XPO Logistics,Shanghai Port,Tokyo Distribution Center,10,10,On-Time In-Full,0.0,617.37
+SHP-2026-5090,2025-08-12,FedEx Freight,Rotterdam Port,London Gateway,5,7,SLA Breach / Delayed,324.82,441.92
+SHP-2026-5091,2025-08-13,FedEx Freight,Chicago Hub,London Gateway,5,5,On-Time In-Full,0.0,400.59
+SHP-2026-5092,2025-08-14,FedEx Freight,Shanghai Port,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,269.12
+SHP-2026-5093,2025-08-15,UPS Supply Chain,Chicago Hub,Frankfurt FC,5,5,On-Time In-Full,0.0,393.13
+SHP-2026-5094,2025-08-15,FedEx Freight,Rotterdam Port,London Gateway,3,3,On-Time In-Full,0.0,347.76
+SHP-2026-5095,2025-08-16,UPS Supply Chain,Singapore Hub,Sydney Express Hub,5,5,On-Time In-Full,0.0,410.52
+SHP-2026-5096,2025-08-17,XPO Logistics,Dubai Logistics City,Sydney Express Hub,3,3,On-Time In-Full,0.0,335.97
+SHP-2026-5097,2025-08-18,UPS Supply Chain,Chicago Hub,New York FC,3,3,On-Time In-Full,0.0,339.94
+SHP-2026-5098,2025-08-19,XPO Logistics,Rotterdam Port,Tokyo Distribution Center,2,3,SLA Breach / Delayed,400.44,257.35
+SHP-2026-5099,2025-08-19,XPO Logistics,Shanghai Port,Frankfurt FC,3,3,On-Time In-Full,0.0,309.7
+SHP-2026-5100,2025-08-20,UPS Supply Chain,Chicago Hub,New York FC,2,2,On-Time In-Full,0.0,297.88
+SHP-2026-5101,2025-08-21,DHL Express,Chicago Hub,Tokyo Distribution Center,2,3,SLA Breach / Delayed,376.12,259.06
+SHP-2026-5102,2025-08-22,Maersk Logistics,Dubai Logistics City,London Gateway,10,10,On-Time In-Full,0.0,653.51
+SHP-2026-5103,2025-08-23,FedEx Freight,Rotterdam Port,Sydney Express Hub,3,4,SLA Breach / Delayed,675.54,350.28
+SHP-2026-5104,2025-08-24,Maersk Logistics,Singapore Hub,Frankfurt FC,5,5,On-Time In-Full,0.0,414.86
+SHP-2026-5105,2025-08-24,FedEx Freight,Shanghai Port,Sydney Express Hub,7,8,SLA Breach / Delayed,693.18,514.33
+SHP-2026-5106,2025-08-25,FedEx Freight,Rotterdam Port,London Gateway,10,10,On-Time In-Full,0.0,654.41
+SHP-2026-5107,2025-08-26,XPO Logistics,Shanghai Port,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,432.6
+SHP-2026-5108,2025-08-27,FedEx Freight,Chicago Hub,London Gateway,7,9,SLA Breach / Delayed,445.77,486.6
+SHP-2026-5109,2025-08-28,FedEx Freight,Dubai Logistics City,London Gateway,3,3,On-Time In-Full,0.0,279.1
+SHP-2026-5110,2025-08-28,UPS Supply Chain,Dubai Logistics City,Sydney Express Hub,3,3,On-Time In-Full,0.0,307.15
+SHP-2026-5111,2025-08-29,Maersk Logistics,Singapore Hub,Frankfurt FC,3,3,On-Time In-Full,0.0,328.9
+SHP-2026-5112,2025-08-30,UPS Supply Chain,Dubai Logistics City,London Gateway,5,5,On-Time In-Full,0.0,401.03
+SHP-2026-5113,2025-08-31,FedEx Freight,Chicago Hub,Sydney Express Hub,5,5,On-Time In-Full,0.0,424.92
+SHP-2026-5114,2025-09-01,XPO Logistics,Singapore Hub,Frankfurt FC,3,3,On-Time In-Full,0.0,303.56
+SHP-2026-5115,2025-09-01,UPS Supply Chain,Rotterdam Port,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,280.78
+SHP-2026-5116,2025-09-02,UPS Supply Chain,Dubai Logistics City,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,379.91
+SHP-2026-5117,2025-09-03,DHL Express,Singapore Hub,New York FC,2,2,On-Time In-Full,0.0,289.95
+SHP-2026-5118,2025-09-04,FedEx Freight,Chicago Hub,Sydney Express Hub,5,5,On-Time In-Full,0.0,408.66
+SHP-2026-5119,2025-09-05,XPO Logistics,Shanghai Port,Frankfurt FC,5,5,On-Time In-Full,0.0,381.33
+SHP-2026-5120,2025-09-05,UPS Supply Chain,Shanghai Port,London Gateway,5,5,On-Time In-Full,0.0,388.35
+SHP-2026-5121,2025-09-06,UPS Supply Chain,Chicago Hub,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,514.89
+SHP-2026-5122,2025-09-07,XPO Logistics,Chicago Hub,Frankfurt FC,7,7,On-Time In-Full,0.0,493.61
+SHP-2026-5123,2025-09-08,FedEx Freight,Shanghai Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,292.28
+SHP-2026-5124,2025-09-09,DHL Express,Singapore Hub,New York FC,5,5,On-Time In-Full,0.0,442.38
+SHP-2026-5125,2025-09-10,UPS Supply Chain,Shanghai Port,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,422.21
+SHP-2026-5126,2025-09-10,DHL Express,Chicago Hub,Frankfurt FC,2,3,SLA Breach / Delayed,348.09,306.57
+SHP-2026-5127,2025-09-11,Maersk Logistics,Dubai Logistics City,Frankfurt FC,2,2,On-Time In-Full,0.0,264.17
+SHP-2026-5128,2025-09-12,FedEx Freight,Rotterdam Port,Frankfurt FC,3,3,On-Time In-Full,0.0,313.01
+SHP-2026-5129,2025-09-13,Maersk Logistics,Dubai Logistics City,Sydney Express Hub,3,3,On-Time In-Full,0.0,346.84
+SHP-2026-5130,2025-09-14,Maersk Logistics,Dubai Logistics City,Sydney Express Hub,5,5,On-Time In-Full,0.0,407.0
+SHP-2026-5131,2025-09-14,Maersk Logistics,Chicago Hub,Sydney Express Hub,7,9,SLA Breach / Delayed,214.08,511.58
+SHP-2026-5132,2025-09-15,FedEx Freight,Shanghai Port,London Gateway,2,2,On-Time In-Full,0.0,250.17
+SHP-2026-5133,2025-09-16,FedEx Freight,Singapore Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,265.74
+SHP-2026-5134,2025-09-17,XPO Logistics,Dubai Logistics City,Tokyo Distribution Center,10,11,SLA Breach / Delayed,722.04,599.88
+SHP-2026-5135,2025-09-18,DHL Express,Shanghai Port,Sydney Express Hub,2,2,On-Time In-Full,0.0,246.48
+SHP-2026-5136,2025-09-18,DHL Express,Singapore Hub,Sydney Express Hub,3,3,On-Time In-Full,0.0,275.08
+SHP-2026-5137,2025-09-19,XPO Logistics,Dubai Logistics City,Frankfurt FC,5,5,On-Time In-Full,0.0,368.14
+SHP-2026-5138,2025-09-20,XPO Logistics,Singapore Hub,Sydney Express Hub,5,5,On-Time In-Full,0.0,443.18
+SHP-2026-5139,2025-09-21,Maersk Logistics,Shanghai Port,London Gateway,2,4,SLA Breach / Delayed,186.14,249.39
+SHP-2026-5140,2025-09-22,XPO Logistics,Rotterdam Port,London Gateway,2,7,SLA Breach / Delayed,328.59,283.06
+SHP-2026-5141,2025-09-22,UPS Supply Chain,Shanghai Port,Sydney Express Hub,2,2,On-Time In-Full,0.0,297.13
+SHP-2026-5142,2025-09-23,DHL Express,Chicago Hub,Frankfurt FC,5,5,On-Time In-Full,0.0,409.05
+SHP-2026-5143,2025-09-24,XPO Logistics,Singapore Hub,Frankfurt FC,5,6,SLA Breach / Delayed,328.84,377.25
+SHP-2026-5144,2025-09-25,UPS Supply Chain,Rotterdam Port,Frankfurt FC,3,3,On-Time In-Full,0.0,333.25
+SHP-2026-5145,2025-09-26,UPS Supply Chain,Singapore Hub,New York FC,5,5,On-Time In-Full,0.0,413.02
+SHP-2026-5146,2025-09-26,UPS Supply Chain,Singapore Hub,Sydney Express Hub,7,8,SLA Breach / Delayed,342.24,513.5
+SHP-2026-5147,2025-09-27,UPS Supply Chain,Dubai Logistics City,Frankfurt FC,2,2,On-Time In-Full,0.0,291.58
+SHP-2026-5148,2025-09-28,Maersk Logistics,Chicago Hub,London Gateway,3,3,On-Time In-Full,0.0,353.03
+SHP-2026-5149,2025-09-29,UPS Supply Chain,Singapore Hub,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,410.89
+SHP-2026-5150,2025-09-30,Maersk Logistics,Shanghai Port,Tokyo Distribution Center,3,4,SLA Breach / Delayed,248.57,302.33
+SHP-2026-5151,2025-10-01,Maersk Logistics,Shanghai Port,Frankfurt FC,3,3,On-Time In-Full,0.0,326.88
+SHP-2026-5152,2025-10-01,UPS Supply Chain,Dubai Logistics City,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,370.48
+SHP-2026-5153,2025-10-02,DHL Express,Chicago Hub,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,526.79
+SHP-2026-5154,2025-10-03,UPS Supply Chain,Chicago Hub,New York FC,7,7,On-Time In-Full,0.0,464.55
+SHP-2026-5155,2025-10-04,UPS Supply Chain,Shanghai Port,London Gateway,5,5,On-Time In-Full,0.0,391.23
+SHP-2026-5156,2025-10-05,UPS Supply Chain,Rotterdam Port,London Gateway,5,5,On-Time In-Full,0.0,430.26
+SHP-2026-5157,2025-10-05,DHL Express,Dubai Logistics City,New York FC,3,3,On-Time In-Full,0.0,322.78
+SHP-2026-5158,2025-10-06,FedEx Freight,Dubai Logistics City,New York FC,5,5,On-Time In-Full,0.0,396.49
+SHP-2026-5159,2025-10-07,FedEx Freight,Shanghai Port,Tokyo Distribution Center,3,6,SLA Breach / Delayed,619.9,312.87
+SHP-2026-5160,2025-10-08,Maersk Logistics,Shanghai Port,Sydney Express Hub,2,2,On-Time In-Full,0.0,298.36
+SHP-2026-5161,2025-10-09,Maersk Logistics,Rotterdam Port,Tokyo Distribution Center,5,7,SLA Breach / Delayed,223.5,392.2
+SHP-2026-5162,2025-10-09,DHL Express,Rotterdam Port,New York FC,5,5,On-Time In-Full,0.0,434.57
+SHP-2026-5163,2025-10-10,XPO Logistics,Chicago Hub,London Gateway,3,3,On-Time In-Full,0.0,282.05
+SHP-2026-5164,2025-10-11,FedEx Freight,Dubai Logistics City,Tokyo Distribution Center,10,10,On-Time In-Full,0.0,652.14
+SHP-2026-5165,2025-10-12,Maersk Logistics,Dubai Logistics City,Sydney Express Hub,2,2,On-Time In-Full,0.0,297.8
+SHP-2026-5166,2025-10-13,FedEx Freight,Shanghai Port,Tokyo Distribution Center,3,6,SLA Breach / Delayed,530.94,289.55
+SHP-2026-5167,2025-10-13,DHL Express,Chicago Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,264.43
+SHP-2026-5168,2025-10-14,DHL Express,Dubai Logistics City,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,468.24
+SHP-2026-5169,2025-10-15,XPO Logistics,Chicago Hub,New York FC,5,5,On-Time In-Full,0.0,421.53
+SHP-2026-5170,2025-10-16,XPO Logistics,Chicago Hub,London Gateway,3,3,On-Time In-Full,0.0,317.83
+SHP-2026-5171,2025-10-17,DHL Express,Shanghai Port,London Gateway,5,5,On-Time In-Full,0.0,415.83
+SHP-2026-5172,2025-10-17,Maersk Logistics,Chicago Hub,New York FC,3,3,On-Time In-Full,0.0,290.72
+SHP-2026-5173,2025-10-18,FedEx Freight,Rotterdam Port,Frankfurt FC,7,7,On-Time In-Full,0.0,471.94
+SHP-2026-5174,2025-10-19,UPS Supply Chain,Rotterdam Port,New York FC,3,3,On-Time In-Full,0.0,278.32
+SHP-2026-5175,2025-10-20,XPO Logistics,Singapore Hub,Tokyo Distribution Center,3,3,On-Time In-Full,0.0,300.77
+SHP-2026-5176,2025-10-21,UPS Supply Chain,Shanghai Port,New York FC,10,10,On-Time In-Full,0.0,634.78
+SHP-2026-5177,2025-10-22,Maersk Logistics,Singapore Hub,New York FC,3,3,On-Time In-Full,0.0,343.63
+SHP-2026-5178,2025-10-22,XPO Logistics,Rotterdam Port,Frankfurt FC,2,2,On-Time In-Full,0.0,283.35
+SHP-2026-5179,2025-10-23,UPS Supply Chain,Singapore Hub,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,399.83
+SHP-2026-5180,2025-10-24,Maersk Logistics,Shanghai Port,Sydney Express Hub,10,10,On-Time In-Full,0.0,666.25
+SHP-2026-5181,2025-10-25,FedEx Freight,Shanghai Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,332.54
+SHP-2026-5182,2025-10-26,Maersk Logistics,Chicago Hub,London Gateway,2,2,On-Time In-Full,0.0,304.41
+SHP-2026-5183,2025-10-26,XPO Logistics,Dubai Logistics City,New York FC,3,5,SLA Breach / Delayed,224.31,317.21
+SHP-2026-5184,2025-10-27,DHL Express,Chicago Hub,London Gateway,5,5,On-Time In-Full,0.0,385.71
+SHP-2026-5185,2025-10-28,FedEx Freight,Shanghai Port,Frankfurt FC,2,2,On-Time In-Full,0.0,234.23
+SHP-2026-5186,2025-10-29,UPS Supply Chain,Rotterdam Port,Sydney Express Hub,5,6,SLA Breach / Delayed,192.32,423.09
+SHP-2026-5187,2025-10-30,XPO Logistics,Rotterdam Port,New York FC,10,11,SLA Breach / Delayed,695.66,599.7
+SHP-2026-5188,2025-10-30,DHL Express,Chicago Hub,Frankfurt FC,3,3,On-Time In-Full,0.0,299.22
+SHP-2026-5189,2025-10-31,Maersk Logistics,Shanghai Port,Frankfurt FC,3,6,SLA Breach / Delayed,264.08,317.6
+SHP-2026-5190,2025-11-01,DHL Express,Rotterdam Port,New York FC,3,3,On-Time In-Full,0.0,320.15
+SHP-2026-5191,2025-11-02,XPO Logistics,Shanghai Port,Frankfurt FC,2,2,On-Time In-Full,0.0,278.05
+SHP-2026-5192,2025-11-03,XPO Logistics,Rotterdam Port,New York FC,7,7,On-Time In-Full,0.0,468.3
+SHP-2026-5193,2025-11-03,DHL Express,Shanghai Port,New York FC,3,3,On-Time In-Full,0.0,305.38
+SHP-2026-5194,2025-11-04,Maersk Logistics,Singapore Hub,Tokyo Distribution Center,3,3,On-Time In-Full,0.0,324.38
+SHP-2026-5195,2025-11-05,DHL Express,Shanghai Port,London Gateway,5,5,On-Time In-Full,0.0,442.59
+SHP-2026-5196,2025-11-06,XPO Logistics,Shanghai Port,Frankfurt FC,3,3,On-Time In-Full,0.0,333.21
+SHP-2026-5197,2025-11-07,XPO Logistics,Chicago Hub,Frankfurt FC,5,6,SLA Breach / Delayed,642.75,438.81
+SHP-2026-5198,2025-11-07,UPS Supply Chain,Singapore Hub,Tokyo Distribution Center,2,3,SLA Breach / Delayed,476.78,290.98
+SHP-2026-5199,2025-11-08,UPS Supply Chain,Dubai Logistics City,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,502.34
+SHP-2026-5200,2025-11-09,FedEx Freight,Chicago Hub,Tokyo Distribution Center,10,11,SLA Breach / Delayed,196.71,605.36
+SHP-2026-5201,2025-11-10,XPO Logistics,Dubai Logistics City,Sydney Express Hub,5,6,SLA Breach / Delayed,723.27,418.33
+SHP-2026-5202,2025-11-11,UPS Supply Chain,Rotterdam Port,Sydney Express Hub,10,10,On-Time In-Full,0.0,639.87
+SHP-2026-5203,2025-11-12,DHL Express,Dubai Logistics City,Sydney Express Hub,2,2,On-Time In-Full,0.0,278.2
+SHP-2026-5204,2025-11-12,Maersk Logistics,Shanghai Port,New York FC,3,3,On-Time In-Full,0.0,314.18
+SHP-2026-5205,2025-11-13,DHL Express,Dubai Logistics City,Frankfurt FC,5,7,SLA Breach / Delayed,298.18,407.29
+SHP-2026-5206,2025-11-14,Maersk Logistics,Chicago Hub,London Gateway,5,5,On-Time In-Full,0.0,391.76
+SHP-2026-5207,2025-11-15,UPS Supply Chain,Chicago Hub,New York FC,3,3,On-Time In-Full,0.0,316.55
+SHP-2026-5208,2025-11-16,FedEx Freight,Dubai Logistics City,Frankfurt FC,3,3,On-Time In-Full,0.0,290.8
+SHP-2026-5209,2025-11-16,DHL Express,Chicago Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,294.41
+SHP-2026-5210,2025-11-17,DHL Express,Chicago Hub,Tokyo Distribution Center,3,3,On-Time In-Full,0.0,289.86
+SHP-2026-5211,2025-11-18,DHL Express,Dubai Logistics City,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,236.8
+SHP-2026-5212,2025-11-19,Maersk Logistics,Singapore Hub,New York FC,5,5,On-Time In-Full,0.0,399.9
+SHP-2026-5213,2025-11-20,UPS Supply Chain,Singapore Hub,Tokyo Distribution Center,3,4,SLA Breach / Delayed,665.79,327.66
+SHP-2026-5214,2025-11-20,DHL Express,Rotterdam Port,Frankfurt FC,2,3,SLA Breach / Delayed,251.29,265.02
+SHP-2026-5215,2025-11-21,DHL Express,Chicago Hub,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,387.14
+SHP-2026-5216,2025-11-22,FedEx Freight,Dubai Logistics City,Sydney Express Hub,5,8,SLA Breach / Delayed,662.37,409.65
+SHP-2026-5217,2025-11-23,FedEx Freight,Chicago Hub,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,482.76
+SHP-2026-5218,2025-11-24,UPS Supply Chain,Shanghai Port,Frankfurt FC,5,5,On-Time In-Full,0.0,439.63
+SHP-2026-5219,2025-11-24,UPS Supply Chain,Chicago Hub,New York FC,3,3,On-Time In-Full,0.0,348.81
+SHP-2026-5220,2025-11-25,XPO Logistics,Chicago Hub,London Gateway,7,8,SLA Breach / Delayed,157.94,495.19
+SHP-2026-5221,2025-11-26,FedEx Freight,Singapore Hub,Tokyo Distribution Center,5,7,SLA Breach / Delayed,457.07,391.23
+SHP-2026-5222,2025-11-27,XPO Logistics,Dubai Logistics City,Frankfurt FC,2,2,On-Time In-Full,0.0,288.97
+SHP-2026-5223,2025-11-28,Maersk Logistics,Chicago Hub,London Gateway,5,6,SLA Breach / Delayed,611.67,367.94
+SHP-2026-5224,2025-11-28,XPO Logistics,Singapore Hub,London Gateway,10,10,On-Time In-Full,0.0,627.98
+SHP-2026-5225,2025-11-29,DHL Express,Rotterdam Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,301.91
+SHP-2026-5226,2025-11-30,XPO Logistics,Singapore Hub,London Gateway,3,3,On-Time In-Full,0.0,348.64
+SHP-2026-5227,2025-12-01,UPS Supply Chain,Singapore Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,230.96
+SHP-2026-5228,2025-12-02,Maersk Logistics,Singapore Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,274.23
+SHP-2026-5229,2025-12-03,DHL Express,Chicago Hub,Tokyo Distribution Center,3,4,SLA Breach / Delayed,710.88,334.25
+SHP-2026-5230,2025-12-03,XPO Logistics,Chicago Hub,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,403.8
+SHP-2026-5231,2025-12-04,Maersk Logistics,Rotterdam Port,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,236.83
+SHP-2026-5232,2025-12-05,Maersk Logistics,Shanghai Port,London Gateway,10,10,On-Time In-Full,0.0,667.8
+SHP-2026-5233,2025-12-06,DHL Express,Shanghai Port,London Gateway,7,7,On-Time In-Full,0.0,496.44
+SHP-2026-5234,2025-12-07,XPO Logistics,Shanghai Port,Sydney Express Hub,5,6,SLA Breach / Delayed,695.52,414.13
+SHP-2026-5235,2025-12-07,Maersk Logistics,Rotterdam Port,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,473.93
+SHP-2026-5236,2025-12-08,Maersk Logistics,Shanghai Port,New York FC,2,2,On-Time In-Full,0.0,268.68
+SHP-2026-5237,2025-12-09,FedEx Freight,Shanghai Port,Sydney Express Hub,3,4,SLA Breach / Delayed,641.77,309.33
+SHP-2026-5238,2025-12-10,Maersk Logistics,Singapore Hub,New York FC,5,5,On-Time In-Full,0.0,370.99
+SHP-2026-5239,2025-12-11,FedEx Freight,Chicago Hub,London Gateway,7,7,On-Time In-Full,0.0,463.49
+SHP-2026-5240,2025-12-11,XPO Logistics,Chicago Hub,Sydney Express Hub,7,7,On-Time In-Full,0.0,522.0
+SHP-2026-5241,2025-12-12,XPO Logistics,Singapore Hub,Sydney Express Hub,3,3,On-Time In-Full,0.0,294.19
+SHP-2026-5242,2025-12-13,XPO Logistics,Singapore Hub,Frankfurt FC,10,10,On-Time In-Full,0.0,605.6
+SHP-2026-5243,2025-12-14,UPS Supply Chain,Singapore Hub,London Gateway,2,2,On-Time In-Full,0.0,270.39
+SHP-2026-5244,2025-12-15,XPO Logistics,Chicago Hub,London Gateway,7,8,SLA Breach / Delayed,682.91,516.5
+SHP-2026-5245,2025-12-15,Maersk Logistics,Shanghai Port,Sydney Express Hub,10,11,SLA Breach / Delayed,269.53,594.96
+SHP-2026-5246,2025-12-16,DHL Express,Singapore Hub,London Gateway,2,2,On-Time In-Full,0.0,276.14
+SHP-2026-5247,2025-12-17,FedEx Freight,Rotterdam Port,Sydney Express Hub,5,5,On-Time In-Full,0.0,374.54
+SHP-2026-5248,2025-12-18,UPS Supply Chain,Singapore Hub,Frankfurt FC,2,3,SLA Breach / Delayed,320.51,232.92
+SHP-2026-5249,2025-12-19,XPO Logistics,Dubai Logistics City,Sydney Express Hub,3,3,On-Time In-Full,0.0,279.22
+SHP-2026-5250,2025-12-20,XPO Logistics,Singapore Hub,London Gateway,5,5,On-Time In-Full,0.0,431.73
+SHP-2026-5251,2025-12-20,DHL Express,Chicago Hub,London Gateway,5,5,On-Time In-Full,0.0,374.44
+SHP-2026-5252,2025-12-21,DHL Express,Singapore Hub,Sydney Express Hub,10,11,SLA Breach / Delayed,323.38,593.61
+SHP-2026-5253,2025-12-22,UPS Supply Chain,Dubai Logistics City,Sydney Express Hub,5,5,On-Time In-Full,0.0,400.03
+SHP-2026-5254,2025-12-23,FedEx Freight,Rotterdam Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,342.52
+SHP-2026-5255,2025-12-24,XPO Logistics,Shanghai Port,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,475.99
+SHP-2026-5256,2025-12-24,UPS Supply Chain,Singapore Hub,London Gateway,10,11,SLA Breach / Delayed,376.23,623.74
+SHP-2026-5257,2025-12-25,Maersk Logistics,Dubai Logistics City,London Gateway,2,2,On-Time In-Full,0.0,233.19
+SHP-2026-5258,2025-12-26,Maersk Logistics,Dubai Logistics City,Tokyo Distribution Center,10,13,SLA Breach / Delayed,385.99,625.93
+SHP-2026-5259,2025-12-27,UPS Supply Chain,Rotterdam Port,Sydney Express Hub,2,2,On-Time In-Full,0.0,276.21
+SHP-2026-5260,2025-12-28,XPO Logistics,Chicago Hub,Frankfurt FC,7,7,On-Time In-Full,0.0,500.67
+SHP-2026-5261,2025-12-28,UPS Supply Chain,Singapore Hub,Sydney Express Hub,3,3,On-Time In-Full,0.0,301.59
+SHP-2026-5262,2025-12-29,XPO Logistics,Dubai Logistics City,Sydney Express Hub,2,2,On-Time In-Full,0.0,255.24
+SHP-2026-5263,2025-12-30,DHL Express,Rotterdam Port,Tokyo Distribution Center,3,5,SLA Breach / Delayed,476.73,283.53
+SHP-2026-5264,2025-12-31,UPS Supply Chain,Shanghai Port,London Gateway,5,5,On-Time In-Full,0.0,394.34
+SHP-2026-5265,2026-01-01,XPO Logistics,Dubai Logistics City,Sydney Express Hub,3,3,On-Time In-Full,0.0,282.96
+SHP-2026-5266,2026-01-01,UPS Supply Chain,Rotterdam Port,London Gateway,2,2,On-Time In-Full,0.0,291.33
+SHP-2026-5267,2026-01-02,UPS Supply Chain,Chicago Hub,New York FC,5,5,On-Time In-Full,0.0,442.3
+SHP-2026-5268,2026-01-03,XPO Logistics,Chicago Hub,London Gateway,10,10,On-Time In-Full,0.0,667.61
+SHP-2026-5269,2026-01-04,XPO Logistics,Dubai Logistics City,Frankfurt FC,3,3,On-Time In-Full,0.0,344.21
+SHP-2026-5270,2026-01-05,FedEx Freight,Dubai Logistics City,Frankfurt FC,3,6,SLA Breach / Delayed,245.93,323.06
+SHP-2026-5271,2026-01-05,UPS Supply Chain,Singapore Hub,Sydney Express Hub,3,3,On-Time In-Full,0.0,331.07
+SHP-2026-5272,2026-01-06,Maersk Logistics,Rotterdam Port,London Gateway,2,2,On-Time In-Full,0.0,252.82
+SHP-2026-5273,2026-01-07,UPS Supply Chain,Dubai Logistics City,Sydney Express Hub,7,7,On-Time In-Full,0.0,505.46
+SHP-2026-5274,2026-01-08,UPS Supply Chain,Singapore Hub,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,491.45
+SHP-2026-5275,2026-01-09,XPO Logistics,Singapore Hub,Frankfurt FC,5,5,On-Time In-Full,0.0,403.56
+SHP-2026-5276,2026-01-10,UPS Supply Chain,Dubai Logistics City,Sydney Express Hub,3,4,SLA Breach / Delayed,564.75,335.62
+SHP-2026-5277,2026-01-10,UPS Supply Chain,Chicago Hub,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,477.55
+SHP-2026-5278,2026-01-11,Maersk Logistics,Rotterdam Port,Sydney Express Hub,5,5,On-Time In-Full,0.0,390.44
+SHP-2026-5279,2026-01-12,XPO Logistics,Rotterdam Port,London Gateway,7,7,On-Time In-Full,0.0,528.97
+SHP-2026-5280,2026-01-13,UPS Supply Chain,Chicago Hub,London Gateway,5,10,SLA Breach / Delayed,250.54,369.5
+SHP-2026-5281,2026-01-14,DHL Express,Dubai Logistics City,London Gateway,7,7,On-Time In-Full,0.0,493.85
+SHP-2026-5282,2026-01-14,FedEx Freight,Rotterdam Port,London Gateway,5,5,On-Time In-Full,0.0,438.02
+SHP-2026-5283,2026-01-15,Maersk Logistics,Dubai Logistics City,New York FC,3,3,On-Time In-Full,0.0,323.83
+SHP-2026-5284,2026-01-16,UPS Supply Chain,Dubai Logistics City,Tokyo Distribution Center,10,10,On-Time In-Full,0.0,633.71
+SHP-2026-5285,2026-01-17,DHL Express,Singapore Hub,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,384.98
+SHP-2026-5286,2026-01-18,UPS Supply Chain,Chicago Hub,London Gateway,5,5,On-Time In-Full,0.0,392.46
+SHP-2026-5287,2026-01-18,UPS Supply Chain,Dubai Logistics City,New York FC,3,3,On-Time In-Full,0.0,343.16
+SHP-2026-5288,2026-01-19,XPO Logistics,Shanghai Port,London Gateway,5,5,On-Time In-Full,0.0,409.74
+SHP-2026-5289,2026-01-20,XPO Logistics,Chicago Hub,New York FC,5,6,SLA Breach / Delayed,336.19,406.18
+SHP-2026-5290,2026-01-21,XPO Logistics,Rotterdam Port,London Gateway,2,2,On-Time In-Full,0.0,237.97
+SHP-2026-5291,2026-01-22,DHL Express,Singapore Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,231.28
+SHP-2026-5292,2026-01-22,UPS Supply Chain,Rotterdam Port,Frankfurt FC,5,5,On-Time In-Full,0.0,442.09
+SHP-2026-5293,2026-01-23,FedEx Freight,Rotterdam Port,Sydney Express Hub,7,7,On-Time In-Full,0.0,485.16
+SHP-2026-5294,2026-01-24,Maersk Logistics,Chicago Hub,London Gateway,5,5,On-Time In-Full,0.0,413.26
+SHP-2026-5295,2026-01-25,XPO Logistics,Rotterdam Port,Tokyo Distribution Center,3,3,On-Time In-Full,0.0,281.38
+SHP-2026-5296,2026-01-26,XPO Logistics,Dubai Logistics City,Sydney Express Hub,5,5,On-Time In-Full,0.0,419.65
+SHP-2026-5297,2026-01-26,UPS Supply Chain,Rotterdam Port,Frankfurt FC,2,2,On-Time In-Full,0.0,304.61
+SHP-2026-5298,2026-01-27,UPS Supply Chain,Singapore Hub,London Gateway,3,8,SLA Breach / Delayed,452.01,321.05
+SHP-2026-5299,2026-01-28,DHL Express,Singapore Hub,Sydney Express Hub,2,2,On-Time In-Full,0.0,240.09
+SHP-2026-5300,2026-01-29,DHL Express,Shanghai Port,London Gateway,2,4,SLA Breach / Delayed,627.86,276.54
+SHP-2026-5301,2026-01-30,XPO Logistics,Singapore Hub,Frankfurt FC,3,3,On-Time In-Full,0.0,336.31
+SHP-2026-5302,2026-01-31,UPS Supply Chain,Rotterdam Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,307.51
+SHP-2026-5303,2026-01-31,FedEx Freight,Singapore Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,300.39
+SHP-2026-5304,2026-02-01,Maersk Logistics,Chicago Hub,New York FC,3,3,On-Time In-Full,0.0,326.89
+SHP-2026-5305,2026-02-02,UPS Supply Chain,Singapore Hub,Frankfurt FC,5,5,On-Time In-Full,0.0,436.94
+SHP-2026-5306,2026-02-03,UPS Supply Chain,Dubai Logistics City,London Gateway,3,3,On-Time In-Full,0.0,324.88
+SHP-2026-5307,2026-02-04,DHL Express,Chicago Hub,Tokyo Distribution Center,3,5,SLA Breach / Delayed,593.68,285.5
+SHP-2026-5308,2026-02-04,Maersk Logistics,Shanghai Port,Frankfurt FC,7,8,SLA Breach / Delayed,537.32,479.78
+SHP-2026-5309,2026-02-05,XPO Logistics,Dubai Logistics City,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,246.14
+SHP-2026-5310,2026-02-06,UPS Supply Chain,Rotterdam Port,New York FC,5,5,On-Time In-Full,0.0,437.71
+SHP-2026-5311,2026-02-07,XPO Logistics,Rotterdam Port,Sydney Express Hub,2,2,On-Time In-Full,0.0,290.83
+SHP-2026-5312,2026-02-08,UPS Supply Chain,Rotterdam Port,Sydney Express Hub,2,2,On-Time In-Full,0.0,284.11
+SHP-2026-5313,2026-02-08,XPO Logistics,Dubai Logistics City,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,389.08
+SHP-2026-5314,2026-02-09,Maersk Logistics,Dubai Logistics City,Sydney Express Hub,5,7,SLA Breach / Delayed,243.46,379.72
+SHP-2026-5315,2026-02-10,DHL Express,Dubai Logistics City,Frankfurt FC,7,7,On-Time In-Full,0.0,515.52
+SHP-2026-5316,2026-02-11,Maersk Logistics,Chicago Hub,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,402.93
+SHP-2026-5317,2026-02-12,FedEx Freight,Chicago Hub,London Gateway,10,10,On-Time In-Full,0.0,608.06
+SHP-2026-5318,2026-02-12,DHL Express,Rotterdam Port,Frankfurt FC,2,2,On-Time In-Full,0.0,279.33
+SHP-2026-5319,2026-02-13,Maersk Logistics,Singapore Hub,Frankfurt FC,2,2,On-Time In-Full,0.0,233.23
+SHP-2026-5320,2026-02-14,FedEx Freight,Rotterdam Port,Frankfurt FC,2,2,On-Time In-Full,0.0,256.09
+SHP-2026-5321,2026-02-15,UPS Supply Chain,Shanghai Port,London Gateway,2,2,On-Time In-Full,0.0,267.48
+SHP-2026-5322,2026-02-16,UPS Supply Chain,Chicago Hub,New York FC,5,5,On-Time In-Full,0.0,376.84
+SHP-2026-5323,2026-02-16,XPO Logistics,Dubai Logistics City,Sydney Express Hub,5,5,On-Time In-Full,0.0,443.77
+SHP-2026-5324,2026-02-17,DHL Express,Chicago Hub,Tokyo Distribution Center,2,7,SLA Breach / Delayed,478.23,246.73
+SHP-2026-5325,2026-02-18,UPS Supply Chain,Dubai Logistics City,New York FC,10,10,On-Time In-Full,0.0,600.43
+SHP-2026-5326,2026-02-19,DHL Express,Shanghai Port,Tokyo Distribution Center,7,7,On-Time In-Full,0.0,471.28
+SHP-2026-5327,2026-02-20,UPS Supply Chain,Shanghai Port,Sydney Express Hub,3,3,On-Time In-Full,0.0,336.52
+SHP-2026-5328,2026-02-21,XPO Logistics,Chicago Hub,London Gateway,2,2,On-Time In-Full,0.0,264.04
+SHP-2026-5329,2026-02-21,Maersk Logistics,Dubai Logistics City,Frankfurt FC,2,2,On-Time In-Full,0.0,275.23
+SHP-2026-5330,2026-02-22,XPO Logistics,Shanghai Port,Frankfurt FC,2,3,SLA Breach / Delayed,202.47,231.68
+SHP-2026-5331,2026-02-23,FedEx Freight,Rotterdam Port,London Gateway,2,2,On-Time In-Full,0.0,232.75
+SHP-2026-5332,2026-02-24,UPS Supply Chain,Rotterdam Port,New York FC,5,5,On-Time In-Full,0.0,400.67
+SHP-2026-5333,2026-02-25,FedEx Freight,Dubai Logistics City,New York FC,3,3,On-Time In-Full,0.0,340.33
+SHP-2026-5334,2026-02-25,FedEx Freight,Chicago Hub,Tokyo Distribution Center,3,3,On-Time In-Full,0.0,345.82
+SHP-2026-5335,2026-02-26,DHL Express,Shanghai Port,London Gateway,10,11,SLA Breach / Delayed,376.42,596.94
+SHP-2026-5336,2026-02-27,UPS Supply Chain,Chicago Hub,New York FC,5,6,SLA Breach / Delayed,398.11,408.07
+SHP-2026-5337,2026-02-28,FedEx Freight,Rotterdam Port,London Gateway,10,10,On-Time In-Full,0.0,663.06
+SHP-2026-5338,2026-03-01,Maersk Logistics,Shanghai Port,Sydney Express Hub,2,2,On-Time In-Full,0.0,261.04
+SHP-2026-5339,2026-03-01,FedEx Freight,Chicago Hub,Frankfurt FC,3,3,On-Time In-Full,0.0,341.37
+SHP-2026-5340,2026-03-02,Maersk Logistics,Singapore Hub,Frankfurt FC,5,10,SLA Breach / Delayed,173.89,375.7
+SHP-2026-5341,2026-03-03,DHL Express,Dubai Logistics City,Frankfurt FC,2,2,On-Time In-Full,0.0,304.83
+SHP-2026-5342,2026-03-04,FedEx Freight,Dubai Logistics City,London Gateway,2,7,SLA Breach / Delayed,314.39,290.11
+SHP-2026-5343,2026-03-05,XPO Logistics,Singapore Hub,London Gateway,5,5,On-Time In-Full,0.0,440.31
+SHP-2026-5344,2026-03-05,DHL Express,Rotterdam Port,Tokyo Distribution Center,5,5,On-Time In-Full,0.0,419.13
+SHP-2026-5345,2026-03-06,Maersk Logistics,Shanghai Port,Frankfurt FC,3,3,On-Time In-Full,0.0,304.07
+SHP-2026-5346,2026-03-07,DHL Express,Dubai Logistics City,Tokyo Distribution Center,3,8,SLA Breach / Delayed,723.39,350.05
+SHP-2026-5347,2026-03-08,FedEx Freight,Singapore Hub,Frankfurt FC,3,4,SLA Breach / Delayed,722.18,297.05
+SHP-2026-5348,2026-03-09,UPS Supply Chain,Singapore Hub,Tokyo Distribution Center,2,2,On-Time In-Full,0.0,256.57
+SHP-2026-5349,2026-03-10,UPS Supply Chain,Rotterdam Port,Tokyo Distribution Center,3,3,On-Time In-Full,0.0,331.06
